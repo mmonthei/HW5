@@ -1,3 +1,4 @@
 /build/
 dbConn.properties
 /src/java/dbHelpers/dbcon.properties
+/dist/

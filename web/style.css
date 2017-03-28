@@ -31,3 +31,12 @@ th {
 tr:hover {background-color: #CCCCCC}
 
 tr:nth-child(even) {background-color: #EDEDED; color: black;}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #696969;
+    box-sizing: border-box;
+}
